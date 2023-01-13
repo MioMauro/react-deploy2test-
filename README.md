@@ -1,5 +1,28 @@
 # Getting Started with Create React App
 
+###
+Connect reactApp to gitHub
+C:\Users\Utente> cd desktop
+C:\Users\Utente\desktop> npx create-react-app react-deploy2- cd react-deploy2-
+
+create new repository on github: react-deploy2 
+
+git init
+git status
+git add .
+git status
+git commit -m "deploy2"  
+git remote add origin https://github.com/MioMauro/react-deploy2test-.git
+git push -u origin main
+---
+second pusch
+---
+git add .
+git commit -m "second push"
+git push  
+
+###
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
