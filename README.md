@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-#####
+#
 <h2>Connect reactApp to gitHub</h2><br><br>
-
+#
 <h4>
 C:\Users\Utente> cd desktop<br>
 C:\Users\Utente\desktop> npx create-react-app react-deploy2- 
@@ -23,7 +23,7 @@ git add .
 git commit -m "second push"
 git push  
 </h4>
-
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
