@@ -18,14 +18,12 @@ git remote add origin https://github.com/MioMauro/react-deploy2test-.git<br>
 git push -u origin main<br>
 ---<br>
 second pusch
----<br>
+<br>
 git add .<br>
 git commit -m "second push"<br>
 git push  <br>
 </h4>
 #
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
