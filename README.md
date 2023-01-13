@@ -16,7 +16,7 @@ git status<br>
 git commit -m "deploy2" <br> 
 git remote add origin https://github.com/MioMauro/react-deploy2test-.git<br>
 git push -u origin main<br>
----
+---<br>
 second pusch
 ---<br>
 git add .<br>
