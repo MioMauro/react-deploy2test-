@@ -1,11 +1,11 @@
 # Getting Started with Create React App
-<h2>Connect reactApp to gitHub</h2><br><br>
+<h2>Connect reactApp to gitHub</h2><br>
 <h4>
 C:\Users\Utente> cd desktop<br>
 C:\Users\Utente\desktop> npx create-react-app react-deploy2- 
 <br> cd react-deploy2-<br>
 <br>
-create new repository on github: react-deploy2 <br>
+create new repository on github: react-deploy2- <br>
 <br>
 git init <br>
 git status<br>
