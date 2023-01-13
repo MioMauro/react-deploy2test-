@@ -1,7 +1,5 @@
 # Getting Started with Create React App
-
 <h2>Connect reactApp to gitHub</h2><br><br>
-
 <h4>
 C:\Users\Utente> cd desktop<br>
 C:\Users\Utente\desktop> npx create-react-app react-deploy2- 
@@ -17,7 +15,7 @@ git commit -m "deploy2" <br>
 git remote add origin https://github.com/MioMauro/react-deploy2test-.git<br>
 git push -u origin main<br>
 ---<br>
-second pusch
+second push
 <br>
 git add .<br>
 git commit -m "second push"<br>
